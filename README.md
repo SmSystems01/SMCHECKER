@@ -1,13 +1,19 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b070e1a1-a227-437a-b3e4-a4439a0680b4" width="500">
-</p>
+<h1 align="center">MeduzaPro</h1>
+<p align="center">Version 3.0.3</p>
 
-<h1 align="center">🚀 SMCHECKER VIP EDITION</h1>
+| | |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/3b51ddfd-0667-4a9d-9a7f-1bd58820870d" width="280"> | <img src="https://github.com/user-attachments/assets/a3a7ed72-aff8-42c9-9835-6346772acdd1" width="280"> |
+
+---
+
+## 🚀 Release Information
+* **Version:** 3.0.3
+* **Status:** Stable Release
+* 
 
 
-<p align="center">
-  <h1 align="center">🚀 SMCHECKER VIP EDITION</h1>
-</p>
+
 
 
 <p align="center">
