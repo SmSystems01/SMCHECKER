@@ -1,3 +1,14 @@
+# SmChecker
+
+
+
+
+
+
+
+
+
+
 # Termux
 
 ```bash
