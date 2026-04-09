@@ -1,4 +1,12 @@
-#        SmChecker
+<p align="center">
+  # SMCHECKER!
+  
+  
+  [1000020028](https://github.com/user-attachments/assets/26d3e67e-0b7a-4fb1-bcef-94085b615d3c)
+
+</p>
+
+
 
 
 
