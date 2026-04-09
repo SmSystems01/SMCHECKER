@@ -1,9 +1,9 @@
 <p align="center">
-  # SMCHECKER!
-  
-  
-  [1000020028](https://github.com/user-attachments/assets/26d3e67e-0b7a-4fb1-bcef-94085b615d3c)
+  <img src="https://github.com/user-attachments/assets/1000020028" width="500">
+</p>
 
+<p align="center">
+  <h1 align="center">🚀 SMCHECKER VIP EDITION</h1>
 </p>
 
 
