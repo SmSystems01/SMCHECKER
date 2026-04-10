@@ -60,11 +60,24 @@
 
 # Channel
 
-* **Telegram:** t.me/SmSystems0
+<p align="center">
+  <h2 align="center">📢 Channel</h2>
+  <a href="https://t.me/SmSystems01" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
+  </a>
+</p>
 
 # Contact Developer
 
-* **Telegram:** t.me/SmSystems01
+<p align="center">
+  <h2 align="center">👨‍💻 Contact Developer</h2>
+  <a href="https://t.me/SmSystems0" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=for-the-badge&logo=telegram" alt="Contact Developer">
+  </a>
+</p>
 
-align="center">SmSystems - Premium Tools
+<p align="center">
+  <br>
+  <b>SmSystems - Premium Tools</b>
+</p>
   
