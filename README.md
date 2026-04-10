@@ -32,7 +32,7 @@
 
 
 
-# Termux(Android)
+## Termux(Android)
 
     ```bash
     $ termux-setup-storage
@@ -44,7 +44,7 @@
     $ python start.py
 
 
-# Linux(Ubuntu / Debian / etc)
+## Linux(Ubuntu / Debian / etc)
 
     ```bash
     $ sudo apt update && sudo apt upgrade -y
@@ -54,7 +54,7 @@
     $ python start.py
 
 
-# 📕 Description
+## 📕 Description
 
 *This tool is designed purely for educational purposes and includes real gateway APIs! It meticulously checks the cards and provides accurate results, indicating whether 3D authentication is required.*
 
