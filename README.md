@@ -60,7 +60,7 @@
 
 This tool is designed to simulate payment flows on Stripe and Braintree-based checkout systems. It follows real browser logic, session handling, and response-based classification (LIVE / DEAD / 3DS).
 
-*Educational Purposes Only I accept no responsibility if it is used for fraudulent purposes.
+*Educational Purposes Only I accept no responsibility if it is used for fraudulent purposes.*
 
 
 
