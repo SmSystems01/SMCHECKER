@@ -1,11 +1,10 @@
 <h1 align="center">SMCheckerV2</h1>
 <p align="center">Version 2.0.0</p>
 
-| | |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/f6de48ef-c8b1-4ec5-b8eb-7356e84044e1" width="280"> | <img src="https://github.com/user-attachments/assets/8c961296-9bc6-4322-aa58-883a6b41dcd8" width="280"> |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24981cdd-c364-4aab-9f59-2c439ed1c7c4" width="350" alt="Preview">
+</p>
 
----
 
 
 ##  Release Information
