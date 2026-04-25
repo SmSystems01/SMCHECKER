@@ -9,8 +9,10 @@
 
 ##  Release Information
 * **Version:** 2.0.0
-* **Status:** Release Stable
-* **Build:** (Python)
+* **Build(Python):** [Python 3.12.2](https://www.python.org/downloads/release/python-3122/)
+* **Status:** Stable Release
+* **Platform:** Cross-Platform
+* **File Type:** .py (python)
 
 
 
@@ -18,7 +20,7 @@
 
 
 <p align="center">
-  <h1 align="center">🚀 INSTALLATION GUIDE</h1>
+  <h1 align="center"> INSTALLATION </h1>
 </p>
 
 
@@ -37,8 +39,8 @@
     $ termux-setup-storage
     $ pkg update -y && pkg upgrade -y
     $ pkg install git python -y
-    $ git clone https://github.com/SmSystems01/SMCHECKER.git
-    $ cd SMCHECKER
+    $ git clone https://github.com/SmSystems01/SMCheckerV2.git
+    $ cd SMCheckerV2
     $ pip install -r requirements.txt
     $ python main.py
 
@@ -48,15 +50,18 @@
     ```bash
     $ sudo apt update && sudo apt upgrade -y
     $ sudo apt install git python3 python3-pip -y
-    $ git clone https://github.com/SmSystems01/SMCHECKER.git
-    $ cd SMCHECKER
+    $ git clone https://github.com/SmSystems01/SMCheckerV2.git
+    $ cd SMCheckerV2
     $ pip install -r requirements.txt
     $ python main.py
 
 
 ## 📕 Description
 
-*This tool is designed purely for educational purposes and includes real gateway APIs! It meticulously checks the cards and provides accurate results, indicating whether 3D authentication is required.*
+This tool is designed to simulate payment flows on Stripe and Braintree-based checkout systems. It follows real browser logic, session handling, and response-based classification (LIVE / DEAD / 3DS).
+
+*Educational Purposes Only I accept no responsibility if it is used for fraudulent purposes.
+
 
 
 <p align="center">
